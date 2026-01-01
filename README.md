@@ -17,3 +17,10 @@ To build strong hands-on skills and prepare for a Cyber Security / SOC Analyst I
 
 ## Status
 Ongoing learning 🚀
+## Learning Path Completed
+- Pre-Security
+  - Introduction to Cyber Security
+  - Networking Fundamentals
+  - How the Web Works
+  - Linux Fundamentals (Part 1)
+  - Windows Fundamentals (Part 1)
